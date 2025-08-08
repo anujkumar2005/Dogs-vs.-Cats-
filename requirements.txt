@@ -1,0 +1,14 @@
+
+---
+
+## 📦 `requirements.txt`
+
+```txt
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tqdm
+pillow
+
